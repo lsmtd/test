@@ -1,0 +1,8 @@
+# test
+
+@startuml
+skinparam handwritten true
+class Object
+class String extends Object
+class Date extends Object
+@enduml
